@@ -1,1 +1,1 @@
-# LWS Projektwochen
+# LWS Project weeks
